@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SpreadsheetView"
-  spec.version      = "0.8.6"
+  spec.version      = "0.8.7"
   spec.summary      = "Full configurable spreadsheet view user interfaces for iOS applications."
 
 
